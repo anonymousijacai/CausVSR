@@ -30,7 +30,10 @@ Visual Sentiment Recognition (VSR) is an emerging field that aims to detect emot
 - The Causal Psuedo Sentiment Maps can be download [here](https://drive.google.com/drive/folders/1Q4MLwrv5lJamNgAGeYL1dg-4JdmpLoHd?usp=drive_link).
 
 ## TODO (_if be accepted_)
-- All training weights of experiments will be available after acceptance of the paper.
+- Release the code of the Global Category Elicitation Module (GCSM).
+- Release the code of the Surface Normal Loss (L<sub>SNL</sub>).
+- Release the code of drawing confusion matrix.
+- All training weights of experiments will be available after acceptance of the paper (the training weight on FI-8 dataset can be tested in).
 - All training models will be available after acceptance of the paper.
 
 ## References
