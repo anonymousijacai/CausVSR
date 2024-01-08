@@ -33,7 +33,7 @@ Visual Sentiment Recognition (VSR) is an emerging field that aims to detect emot
 - Release the code of the Global Category Elicitation Module (GCSM).
 - Release the code of the Surface Normal Loss (L<sub>SNL</sub>).
 - Release the code of drawing confusion matrix.
-- All training weights of experiments will be available after acceptance of the paper (the training weight on FI-8 dataset can be tested in).
+- All training weights of experiments will be available after acceptance of the paper (the training weight on FI-8 dataset can be obtained [here](https://drive.google.com/file/d/1dZD9dfyB104KgRxUz2NDhkaEPMq2C9MK/view?usp=drive_link)).
 - All training models will be available after acceptance of the paper.
 
 ## References
