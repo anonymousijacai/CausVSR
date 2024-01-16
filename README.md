@@ -26,17 +26,20 @@ Visual Sentiment Recognition (VSR) is an emerging field that aims to detect emot
    ```
    $ python main.py
    ```
-   
+<!--    
 ## Visualization
 - The Causal Psuedo Sentiment Maps can be download [here](https://drive.google.com/drive/folders/1Q4MLwrv5lJamNgAGeYL1dg-4JdmpLoHd?usp=drive_link).
+-->
 
+<!-- 
 ## TODO (_if be accepted_)
 - Release the code of the Global Category Elicitation Module (GCSM).
 - Release the code of the Surface Normal Loss (L<sub>SNL</sub>).
 - Release the code of drawing confusion matrix.
 - All training weights of experiments will be available after acceptance of the paper (the training weight on FI-8 dataset can be obtained [here](https://drive.google.com/file/d/1dZD9dfyB104KgRxUz2NDhkaEPMq2C9MK/view?usp=drive_link)).
 - All training models will be available after acceptance of the paper.
-
+-->
+  
 ## References
 Our code is developed based on:
 - [WSCNet: Weakly Supervised Coupled Networks for Visual Sentiment Classification and Detection.](https://ieeexplore.ieee.org/document/8825564)
