@@ -15,30 +15,30 @@ Visual Sentiment Recognition (VSR) is an emerging field that aims to detect emot
  1. Clone this repository.
  2. <code>pip install -r requirements.txt</code>
 
-<!-- 
+
 ## Data Preparation
  1. Download large-scale dataset FI-8 [here](https://drive.google.com/drive/folders/1gz5WhybpFT7F3YJ8Hl-6gxYWq12Gmbax?usp=drive_link), and put the splited dataset into <code>CauVSR/FI</code>.
  2. Download small-scale dataset [Emotion-6](http://chenlab.ece.cornell.edu/downloads.html).
--->
+
 
 ## Train
 1. Launch training by the command below:
    ```
    $ python main.py
    ```
-<!--    
+  
 ## Visualization
 - The Causal Psuedo Sentiment Maps can be download [here](https://drive.google.com/drive/folders/1Q4MLwrv5lJamNgAGeYL1dg-4JdmpLoHd?usp=drive_link).
--->
 
-<!-- 
+
+
 ## TODO (_if be accepted_)
 - Release the code of the Global Category Elicitation Module (GCSM).
 - Release the code of the Surface Normal Loss (L<sub>SNL</sub>).
 - Release the code of drawing confusion matrix.
 - All training weights of experiments will be available after acceptance of the paper (the training weight on FI-8 dataset can be obtained [here](https://drive.google.com/file/d/1dZD9dfyB104KgRxUz2NDhkaEPMq2C9MK/view?usp=drive_link)).
 - All training models will be available after acceptance of the paper.
--->
+
   
 ## References
 Our code is developed based on:
