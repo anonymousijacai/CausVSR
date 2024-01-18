@@ -17,7 +17,7 @@ Visual Sentiment Recognition (VSR) is an evolving field that aims to detect emot
 
 
 ## Data Preparation
- 1. Download large-scale dataset FI-8 [here](https://drive.google.com/drive/folders/1gz5WhybpFT7F3YJ8Hl-6gxYWq12Gmbax?usp=drive_link), and put the splited dataset into <code>CauVSR/FI</code>.
+ 1. Download large-scale dataset FI-8 [here](https://drive.google.com/drive/folders/1gz5WhybpFT7F3YJ8Hl-6gxYWq12Gmbax?usp=drive_link), and put the splited dataset into <code>CausVSR/FI</code>.
  2. Download small-scale dataset [Emotion-6](http://chenlab.ece.cornell.edu/downloads.html).
 
 
