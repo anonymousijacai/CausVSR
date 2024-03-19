@@ -30,7 +30,8 @@ Visual Sentiment Recognition (VSR) is an evolving field that aims to detect emot
 ## Visualization
 - The Causal Psuedo Sentiment Maps can be download [here](https://drive.google.com/drive/folders/1Q4MLwrv5lJamNgAGeYL1dg-4JdmpLoHd?usp=drive_link).
 
-
+## Appendix
+- The combination experiments about the impact of integration of pseudo sentiment maps and different convolutional layers can be seen [here](https://drive.google.com/drive/folders/1Q4MLwrv5lJamNgAGeYL1dg-4JdmpLoHd?usp=drive_link).
 
 ## TODO (_after acceptance_)
 - Release the code of the Global Category Elicitation Module (GCSM).
